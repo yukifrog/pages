@@ -49,6 +49,7 @@ pre
   pre
 pre
 
+Your site is published at https://yukifrog.github.io/pages/
 
 ~~~
 
